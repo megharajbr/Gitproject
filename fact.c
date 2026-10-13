@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-factorial() {
+void factorial(void) {
     int n;
     unsigned long long fact = 1;
 

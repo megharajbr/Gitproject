@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-biggest2() {
+int biggest2(void) {
     int a, b;
 
     printf("Please Enter Two different values\n");
